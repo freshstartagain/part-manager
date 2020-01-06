@@ -1,0 +1,13 @@
+altgraph==0.16.1
+appdirs==1.4.3
+attrs==19.3.0
+black==19.10b0
+Click==7.0
+future==0.18.2
+pathspec==0.7.0
+pefile==2019.4.18
+PyInstaller==3.5
+pywin32-ctypes==0.2.0
+regex==2019.12.20
+toml==0.10.0
+typed-ast==1.4.0
